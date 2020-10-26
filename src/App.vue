@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-   <h1>这是黑马头条</h1>
-    <router-view/>
+    <!-- 这是路由的出口 -->
+  <router-view/>
   </div>
 </template>
 
